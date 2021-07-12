@@ -15,25 +15,26 @@ I used Python 3.9 on Windows 10 pro.
 
 When we run the program we will be asked for the path to all the bank data are.
 
-![after-running-the-program](scrs-images\run-th-program.pnd)
+![after-running-the-program](https://github.com/melaku721/FinTech2/blob/main/scrs-images/run-the-program.png)
 
 And then we have to follow the prompt to answer all the questions.
 
-![question](scrs-images\giving-answer1.png)
+![question](https://github.com/melaku721/FinTech2/blob/main/scrs-images/giving-answer1.png)
 
-![question](scrs-images\giving-answer2.png)
+![question](https://github.com/melaku721/FinTech2/blob/main/scrs-images/giving%20-answer2.png)
 
-![question](scrs-images\giving-answer3.png)
-
-![question](scrs-images\question-to-save-the-result.png)
+![question](https://github.com/melaku721/FinTech2/blob/main/scrs-images/giving-answer3.png)
 
 And finally after we get the result we will be asked if we want to save the list of qualifying loans. If our reply is yes it will be saved as a CSV file.
 
-![confirmation-to-save](scrs-images\saves-the-result-to-qualifying-loans-csv.png)
+![question](https://github.com/melaku721/FinTech2/blob/main/scrs-images/question-to%20save-the-result.png)
+
+
+![confirmation-to-save](https://github.com/melaku721/FinTech2/blob/main/scrs-images/saves-the-result-to-qualifying-loans-csv.png)
 
 Finally we will save the file as we see in the image below.
 
-![saved-qualifying-loans csv](scrs-images\saved-qualifying-loans-csv.png)
+![saved-qualifying-loans csv](https://github.com/melaku721/FinTech2/blob/main/scrs-images/saved-qualifying-loans-csv.png)
 
 ## Contributors
 
