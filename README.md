@@ -29,11 +29,11 @@ And then we have to follow the prompt to answer all the questions.
 
 And finally after we get the result we will be asked if we want to save the list of qualifying loans. If our reply is yes it will be saved as a CSV file.
 
-![confirmation-to-save](C:\Users\meltm\Desktop\scrs-images\saves-the-result-to-qualifying-loans csv.png)
+![confirmation-to-save](C:\Users\meltm\Desktop\scrs-images\saves-the-result-to-qualifying-loans-csv.png)
 
 Finally we will save the file as we see in the image below.
 
-![saved-qualifying-loans csv](C:\Users\meltm\Desktop\scrs-images\saved-qualifying-loans csv.png)
+![saved-qualifying-loans csv](C:\Users\meltm\Desktop\scrs-images\saved-qualifying-loans-csv.png)
 
 ## Contributors
 
