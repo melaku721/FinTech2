@@ -15,25 +15,25 @@ I used Python 3.9 on Windows 10 pro.
 
 When we run the program we will be asked for the path to all the bank data are.
 
-![after-running-the-program](C:\Users\meltm\Desktop\scrs-images\run-th-program.pnd)
+![after-running-the-program](scrs-images\run-th-program.pnd)
 
 And then we have to follow the prompt to answer all the questions.
 
-![answering-questions](C:\Users\meltm\Desktop\scrs-images\giving-answer1.png)
+![question](scrs-images\giving-answer1.png)
 
-![answering-questions](C:\Users\meltm\Desktop\scrs-images\giving-answer2.png)
+![question](scrs-images\giving-answer2.png)
 
-![answering-questions](C:\Users\meltm\Desktop\scrs-images\giving-answer3.png)
+![question](scrs-images\giving-answer3.png)
 
-![answering-questions](C:\Users\meltm\Desktop\scrs-images\question-to-save-the-result.png)
+![question](scrs-images\question-to-save-the-result.png)
 
 And finally after we get the result we will be asked if we want to save the list of qualifying loans. If our reply is yes it will be saved as a CSV file.
 
-![confirmation-to-save](C:\Users\meltm\Desktop\scrs-images\saves-the-result-to-qualifying-loans-csv.png)
+![confirmation-to-save](scrs-images\saves-the-result-to-qualifying-loans-csv.png)
 
 Finally we will save the file as we see in the image below.
 
-![saved-qualifying-loans csv](C:\Users\meltm\Desktop\scrs-images\saved-qualifying-loans-csv.png)
+![saved-qualifying-loans csv](scrs-images\saved-qualifying-loans-csv.png)
 
 ## Contributors
 
